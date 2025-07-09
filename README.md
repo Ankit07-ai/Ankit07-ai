@@ -4,23 +4,25 @@ A passionate Gaming Creator || Computer Science Engineer || Content Creator from
 
 Email Me 👉 ✉️ akumar70072@gmail.com For Collaboration/Project or Anything Else. 😊😊
 
--🔭 I'm currently working on: Jarvis Virtual Assistant using Python and Wi-Fi Controlled Robotic Car projects
--🌱 I'm currently learning: Advanced Python, Machine Learning, and IoT Development
--👯 I'm looking to collaborate on: Gaming Content, Tech Projects, and Software Development
--🤔 I'm looking for help with: Advanced AI/ML projects and Community Building
--💬 Ask me about: Gaming, Programming, Tech Reviews, Arduino Projects
--📫 How to reach me: akumar70072@gmail.com
--🎓 Currently: B.Tech Computer Science Engineering (4th Year, 7th Semester)
--🎯 CGPA: 7.16
--🎮 Pronouns: Ankit Bro
--⚡ Fun fact: I Love Gaming and Gaming Loves Me Back!
+🔭 I'm currently working on: Jarvis Virtual Assistant using Python and Wi-Fi Controlled Robotic Car projects
 
-🌐 Connect with me:
+🌱 I'm currently learning: Advanced Python, Machine Learning, and IoT Development
 
-YouTube: @r2kankitgamer970
-Instagram: @r2k_ankit_gamer
-Facebook: Ankit Kumar Choudhary
-LinkedIn: ankit-kumar-choudhary
+👯 I'm looking to collaborate on: Gaming Content, Tech Projects, and Software Development
+
+🤔 I'm looking for help with: Advanced AI/ML projects and Community Building
+
+💬 Ask me about: Gaming, Programming, Tech Reviews, Arduino Projects
+
+📫 How to reach me: akumar70072@gmail.com
+
+🎓 Currently: B.Tech Computer Science Engineering (4th Year, 7th Semester)
+
+🎯 CGPA: 7.16
+
+🎮 Pronouns: Ankit Bro
+
+⚡ Fun fact: I Love Gaming and Gaming Loves Me Back!
 
 "Creating content that entertains, educates, and inspires the gaming and tech community!" 🎮✨
 <!-- Snake Game Repo View -->
