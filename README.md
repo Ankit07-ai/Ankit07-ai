@@ -18,7 +18,7 @@ Email Me 👉 ✉️ akumar70072@gmail.com For Collaboration/Project or Anything
 
 🎓 Currently: B.Tech Computer Science Engineering (4th Year, 7th Semester)
 
-🎯 CGPA: 7.16
+🎯 CGPA: 7.30
 
 🎮 Pronouns: Ankit Bro
 
