@@ -16,7 +16,7 @@ Email Me 👉 ✉️ akumar70072@gmail.com For Collaboration/Project or Anything
 
 📫 How to reach me: akumar70072@gmail.com
 
-🎓 B.Tech Computer Science Engineering (FIRST DIV)
+🎓 B.Tech Computer Science Engineering (I-DIV) 
 
 🎯 CGPA: 7.32
 
